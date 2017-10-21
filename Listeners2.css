@@ -1,0 +1,318 @@
+body {
+  background-color: rgb(20,35,111);
+}
+
+h1{
+  font-size: 84px;
+  color: rgb(251,243,250);
+  font-family: 'Reenie Beanie', cursive;
+  text-align: center;
+<<<<<<< HEAD
+  width: 50%;
+  margin-left:23%;
+  font-weight: normal;
+
+=======
+
+  width: 50%;
+  margin-left:23%;
+  font-weight: normal;
+  position: fixed;
+>>>>>>> 4ad1f194117249e35f9bc3118f65f531ae67a3f5
+}
+
+.menud {
+  margin-top:100px;
+  margin-left: -60px;
+  display: inline-block;
+}
+
+
+nav {
+  background-color: rgb(194,42,115);
+  width: 200px;
+  height: 600px;
+  float: left;
+  display: none;
+  margin-left: 0px;
+<<<<<<< HEAD
+  margin-top:-253px;
+=======
+  margin-top:20px;
+>>>>>>> 4ad1f194117249e35f9bc3118f65f531ae67a3f5
+}
+
+nav:active {
+  background-color: rgb(194,42,115);
+}
+
+.profil{
+  border-radius: 100px;
+<<<<<<< HEAD
+  margin-left: 52px;
+  margin-top: 39px;
+=======
+>>>>>>> 4ad1f194117249e35f9bc3118f65f531ae67a3f5
+
+}
+
+section{
+  width: 64%;
+  height: 100%;
+  display: flex;
+<<<<<<< HEAD
+  justify-content: space-between;
+  margin-left: 16%;
+  position: inherit;
+  margin-top: 30px;
+}
+
+.formulaire{
+  margin-left: 21px;
+}
+
+p{
+  font-family: 'Baloo Chettan', cursive;
+  color:black;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+a{
+  text-decoration: none;
+  font-style: normal;
+  font-family: 'Baloo Chettan', cursive;
+  color: black;
+  font-size: 15px;
+ }
+
+.nom{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 50px;
+  opacity: 20%;
+  display:flex;
+  justify-content: center;
+  background-position:top;
+}
+
+.nom:hover{
+   text-decoration: none;
+   color: white;
+   font-weight: normal;
+   font-family: 'Reenie Beanie', cursive;
+}
+
+ol{
+  margin-left: -5px;
+}
+
+
+
+.element{
+  text-decoration: none;
+  font-weight: normal;
+  background-position:top;
+}
+
+.element:hover{
+  text-decoration: none;
+color:white;
+  font-weight: normal;
+  background-position:top;
+}
+
+
+.mytxt1{
+  display:none;
+  position: absolute;
+  top: 104px;
+  left: 54px;
+}
+
+a{
+  position: relative;
+}
+
+a:hover .mytxt1{
+  display: block;
+  color: white;
+  font-weight: normal;
+  font-family: 'Reenie Beanie', cursive;
+    font-size: 54px;
+}
+
+.mytxt2{
+  display:none;
+  position: absolute;
+  top: 105px;
+  left: 27px;
+}
+
+a:hover .mytxt2{
+  display: block;
+  color: white;
+  font-weight: normal;
+  font-family: 'Reenie Beanie', cursive;
+    font-size: 45px;
+}
+
+
+.mytxt3{
+  display:none;
+  position: absolute;
+  top: 105px;
+  left: 27px;
+}
+
+a:hover .mytxt3{
+  display: block;
+  color: white;
+  font-weight: normal;
+  font-family: 'Reenie Beanie', cursive;
+    font-size: 45px;
+}
+
+
+.mytxt4{
+  display:none;
+  position: absolute;
+  top: 109px;
+  left: 39px;
+}
+a:hover .mytxt4{
+  display: block;
+  color: white;
+  font-weight: normal;
+  font-family: 'Reenie Beanie', cursive;
+    font-size: 50px;
+}
+
+
+.mytxt5{
+  display:none;
+  position: absolute;
+  top: 104px;
+  left: 54px;
+}
+a:hover .mytxt5{
+  display: block;
+  color: white;
+  font-weight: normal;
+  font-family: 'Reenie Beanie', cursive;
+    font-size: 54px;
+}
+
+.mytxt6{
+  display:none;
+  position: absolute;
+  top: 100px;
+  left: 29px;
+}
+a:hover .mytxt6{
+  display: block;
+  color: white;
+  font-weight: normal;
+  font-family: 'Reenie Beanie', cursive;
+    font-size: 54px;
+}
+
+.mytxt7{
+  display:none;
+  position: absolute;
+  top: 96px;
+  left: 21px;
+}
+
+a:hover .mytxt7{
+  display: block;
+  color: white;
+  font-weight: normal;
+  font-family: 'Reenie Beanie', cursive;
+    font-size: 54px;
+}
+
+.mytxt8{
+  display:none;
+  position: absolute;
+  top: 113px;
+  left: 56px;
+}
+a:hover .mytxt8{
+  display: block;
+  color: white;
+  font-weight: normal;
+  font-family: 'Reenie Beanie', cursive;
+    font-size: 45px;
+}
+
+.mytxt9{
+  display:none;
+  position: absolute;
+  top: 104px;
+  left: 54px;
+}
+a:hover .mytxt9{
+  display: block;
+  color: white;
+  font-weight: normal;
+  font-family: 'Reenie Beanie', cursive;
+    font-size: 54px;
+}
+
+.mytxt10{
+  display:none;
+  position: absolute;
+  top: 104px;
+  left: 54px;
+}
+a:hover .mytxt10{
+  display: block;
+  color: white;
+  font-weight: normal;
+  font-family: 'Reenie Beanie', cursive;
+    font-size: 54px;
+}
+
+.mytxt11{
+  display:none;
+  position: absolute;
+  top: 109px;
+  left: 34px;
+}
+a:hover .mytxt11{
+  display: block;
+  color: white;
+  font-weight: normal;
+  font-family: 'Reenie Beanie', cursive;
+    font-size: 54px;
+}
+
+.mytxt12{
+  display:none;
+  position: absolute;
+  top: 104px;
+  left: 54px;
+}
+a:hover .mytxt12{
+  display: block;
+  color: white;
+  font-weight: normal;
+  font-family: 'Reenie Beanie', cursive;
+    font-size: 54px;
+}
+
+
+
+.personne1, .personne2, .personne3, .personne4, .personne5, .personne6, .personne7, .personne8, .personne9, .personne10, .personne11, .personne12 {
+  border-radius: 100px;
+=======
+justify-content: space-between;
+align-content: center;
+margin-left: : 200px;
+>>>>>>> 4ad1f194117249e35f9bc3118f65f531ae67a3f5
+}
